@@ -1,0 +1,7 @@
+    1  Grass.opc    Ryegrass                                                                                                                
+    2 Const_crop.opc    Corn_grass                                                                                                              
+    3 Rot_crop.opc    Corn_potato                                                                                                             
+    4 Rot_turf_corn.opc    Corn_turf                                                                                                               
+    5 Const_crop_irr.opc    Corn_irrigation                                                                                                         
+    6   AGRR.opc    Corn_grain_1y_rot                                                                                                       
+    7   SPAS.opc    SummerPasture                                                                                                           
